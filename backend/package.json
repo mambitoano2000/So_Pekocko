@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "so pekocko backend",
+  "main": "server.js",
+  "dependencies": {
+    "node": "^14.0.0",
+    "nodemon": "^2.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mambitoano2000",
+  "license": "ISC"
+}
